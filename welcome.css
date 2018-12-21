@@ -1,0 +1,116 @@
+.photo{
+	
+	width: 300px;
+	height: 700px;
+	position: relative;
+	left: 5px;
+	background-color: #bdb76b;
+	padding-top: 78px;
+	padding-left: 10px;
+	padding-bottom: 98px;
+	padding-right: 40px;
+	border-bottom: thick solid #774e08;
+	font-size: 100px;
+	font-family: Calibri;
+/*	font-stretch: 400px;*/
+	font-weight: bold;
+	font-style: italic;
+	color: #774e08;
+	width: 100%;
+	display: inline;
+}
+
+img{
+	position: relative;
+	left: 25px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+.salutation{
+	background-color: #bdb76b;
+	padding-top: 78px;
+	padding-left: 20px;
+	padding-bottom: 100px;
+	border-left: thick solid #774e08;
+	border-bottom: thick solid #774e08;
+	font-size: 100px;
+	font-family: Calibri;
+/*	font-stretch: 400px;*/
+	font-weight: bold;
+	font-style: italic;
+	color: #774e08;
+	position: relative;
+	left: 5px;
+	top: 15px;
+	display: inline-block;
+	width: 890px;
+	height: 300px;
+	text-align: center;
+}
+
+/*.well {
+	text-align: center;
+}*/
+
+.bio{
+	font-family: Calibri;
+	font-size: 22px;
+	width: 380px;
+	color: #774e08;
+	text-align: justify;
+	border-right: thick solid #774e08;
+	padding: 10px;
+	display: inline-block;
+
+}	
+
+p {
+	width: 380px;
+}
+
+.highlight{
+	font-weight: bold;
+}
+
+
+#hide {
+	color: #bdb76b;
+}
+
+footer{ 
+	font-family: Calibri;
+	font-size: 22px;
+	font-weight: bold;
+	font-style: italic;
+	width: 100%px;
+	color: #774e08;
+	text-align: center;
+	}
+
+
+body{
+	background-color: #20b2aa;
+	
+}
+
+.fit {
+	width: 700px;
+	display: inline-block;/*
+	position: left 25px;
+	position: top 2px;
+	float: right;
+	float: top;*/
+}
+/*	
+.hey{
+	font-family: Calibri;
+	font-size: 48px;
+	width: 250px;
+	color: #774e08;
+	text-align: center;
+	display: inline-text block;
+
+*/
+
+
